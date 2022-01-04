@@ -2,7 +2,7 @@
 
 ![NSA Codebreaker Challenge 2021 Solutions](img/animated_thumbnail.gif)
 
-Please use the [Discussions](https://github.com/luker983/nsa-codebreaker-2021/discussions) page for questions and comments.
+Please use the [Discussions](https://github.com/luker983/nsa-codebreaker-2021/discussions) page for questions and comments or reach out on Discord!
 </div>
 
 
