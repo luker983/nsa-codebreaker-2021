@@ -1,0 +1,3 @@
+weber.theresa@panic.invalid
+https://git-svr-12.prod.panic.invalid/hydraSquirrel/hydraSquirrel.git
+/usr/bin/make
