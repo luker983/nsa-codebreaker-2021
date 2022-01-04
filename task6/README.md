@@ -99,7 +99,7 @@ $ docker build -t panic-reversing .
 And finally run it with:
 
 ```bash
-$ docker --rm -it panic-reverse
+$ docker --rm -it panic-reversing
 ```
 ```
 GNU gdb (GDB) 10.1
